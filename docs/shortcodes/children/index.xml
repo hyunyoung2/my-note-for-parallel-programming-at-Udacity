@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>children on my note for parrallel programing  of Udacity</title>
+    <link>https://hyunyoung2.github.io/my-note-for-parallel-programming-at-Udacity/shortcodes/children/</link>
+    <description>Recent content in children on my note for parrallel programing  of Udacity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://hyunyoung2.github.io/my-note-for-parallel-programming-at-Udacity/shortcodes/children/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>page test</title>
+      <link>https://hyunyoung2.github.io/my-note-for-parallel-programming-at-Udacity/shortcodes/children/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyunyoung2.github.io/my-note-for-parallel-programming-at-Udacity/shortcodes/children/test/</guid>
+      <description>This is a test demo child page</description>
+    </item>
+    
+  </channel>
+</rss>
