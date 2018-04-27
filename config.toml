@@ -30,7 +30,7 @@ enableMissingTranslationPlaceholders = false
 [params]
 editURL = "https://github.com/hyunyoung2/my-note-for-parallel-programming-at-Udacity/edit/master/content/"
 showVisitedLinks = true # default is false
-themeStyle = "original" # "original" or "flex" # default "original"
+themeStyle = "flex" # "original" or "flex" # default "original"
 themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
